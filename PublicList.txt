@@ -1,2 +1,2 @@
 68|Mkultimate|Mortal Kombat Trilogy|127.0.0.1|192.168.1.98|ABCDEFHH|PUBLIC
-68|Lenovo|Street Fighter Ex2 Plus|127.0.0.6|192.168.1.100|ABCDEFHH|PUBLIC
+68|Lenovo|Street Fighter Ex2 Plus|127.0.0.6|192.168.1.100|ABCDEFH9|PUBLIC
