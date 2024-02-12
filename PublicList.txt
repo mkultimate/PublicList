@@ -1,1 +1,6 @@
-68|Lenovo|Street Fighter Ex2 Plus|127.0.0.6|192.168.1.100|ABCDEFH9|PUBLIC
+68|Lenovo|Street Fighter Ex2 Plus|127.0.0.1|192.168.1.101|ABCDEFH0|PUBLIC
+69|Mkultimate|Street Fighter Ex2 Plus|127.0.0.2|192.168.1.102|ABCDEFH1|PUBLIC
+70|Killer|Street Fighter Ex2 Plus|127.0.0.3|192.168.1.103|ABCDEFH2|PUBLIC
+71|Emuladores Gama|Street Fighter Ex2 Plus|127.0.0.4|192.168.1.104|ABCDEFH3|PUBLIC
+72|Kio|Street Fighter Ex2 Plus|127.0.0.5|192.168.1.105|ABCDEFH4|PUBLIC
+73|Dantes|Street Fighter Ex2 Plus|127.0.0.6|192.168.1.106|ABCDEFH5|PUBLIC
