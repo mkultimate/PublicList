@@ -3,4 +3,4 @@
 70|Killer|Street Fighter Ex2 Plus|127.0.0.3|192.168.1.103|ABCDEFH2|PUBLIC
 71|Emuladores Gama|Street Fighter Ex2 Plus|127.0.0.4|192.168.1.104|ABCDEFH3|PUBLIC
 72|Kio|Street Fighter Ex2 Plus|127.0.0.5|192.168.1.105|ABCDEFH4|PUBLIC
-73|Dantes|Street Fighter Ex2 Plus|127.0.0.6|192.168.1.106|ABCDEFH5|PUBLIC
+
